@@ -1,2 +1,2 @@
 # ReceiptProject
- Project Created With Python
+BHAT-BHATENI RECEIPT PROGRAM
